@@ -1,4 +1,4 @@
-## Hi, I'm Dario 👋
+### Hi, I'm Dario 👋
 
 ... a free-range code herder and overeager 20 something year old *trying* to change the world for the better. I like to solve problems, and software engineering is my tool of choice!
 

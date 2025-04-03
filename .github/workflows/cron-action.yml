@@ -1,11 +1,11 @@
-name: Create our Weekly Meeting notes issue
-on:
-  schedule:
-    - cron: "*/1 * * * *"
+# name: Create our Weekly Meeting notes issue
+# on:
+#   schedule:
+#     - cron: "*/1 * * * *"
 
-jobs:
-  log:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Print a log message
-        run: echo "This action runs every 1 minute."
+# jobs:
+#   log:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Print a log message
+#         run: echo "This action runs every 1 minute."

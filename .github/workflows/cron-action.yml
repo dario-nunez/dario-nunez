@@ -1,9 +1,5 @@
-name: "Log every 1 minute"
+name: Create our Weekly Meeting notes issue
 on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
   schedule:
     - cron: "*/1 * * * *"
 

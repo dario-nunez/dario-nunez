@@ -1,11 +1,11 @@
-name: "Log every 5 minutes"
+name: "Log every 1 minute"
 on:
   schedule:
-  - cron: "*/5 * * * *"
+  - cron: "*/1 * * * *"
 
 jobs:
   log:
     runs-on: ubuntu-latest
     steps:
     - name: Print a log message
-      run: echo "This action runs every 5 minutes."
+      run: echo "This action runs every 1 minute."

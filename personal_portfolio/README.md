@@ -1,0 +1,4 @@
+- nativewind automatic setup cli command did not work
+- used expo command and then nativewind's manual setup steps
+- seems to work well on web and expo go
+- super similar to gluestack actually
